@@ -23,4 +23,10 @@ Scientists monitor land surface temperature because the warmth rising off Earthâ
 1. Continents dataset (Country code, alpha values, region).
 2. Global temperatures dataset (By Country, By City, By State).
 
-## Observations.
+## Observations
+
+Human-induced climate change has contributed to changing patterns of extreme weather across the globe, from longer and hotter heat waves to heavier rains. From a broad perspective, all weather events are now connected to climate change.
+While natural variability continues to play a key role in extreme weather, climate change has shifted the odds and changed the natural limits, making certain types of extreme weather more frequent and more intense.
+The analysis shows that the rise in average world land temperature globe is approximately 1.5 degrees C in the past 250 years, and about 0.9 degrees in the past 50 years.
+While our understanding of how climate change affects extreme weather and rise in land temperature is still developing, evidence suggests that extreme weather may be affected even more than anticipated. Extreme weather is on the rise, and the indications are that it will continue to increase, in both predictable and unpredictable ways.
+
